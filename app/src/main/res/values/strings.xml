@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Auto Brightness</string>
+    <string name="action_settings">Settings</string>
+    <string name="help_text">
+        Sometimes, auto brighteness can drain your battery quickly.
+        \n
+        This app helps you by decreasing the time of running automatic brightness, by turning-on brightness for 7 seconds only after you unlock your phone so that your screen refreshes brightness, and turn off after that to save battery
+        \n\n\n
+        The app should automatically now refresh the screen brightness.
+        \nTry to lock / unlock yuor phone to verify
+    </string>
+</resources>
